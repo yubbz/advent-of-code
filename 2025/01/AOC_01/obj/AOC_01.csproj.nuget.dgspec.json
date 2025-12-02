@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kyle.maclachlan\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj": {}
+    "C:\\Users\\kylem\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kyle.maclachlan\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj": {
+    "C:\\Users\\kylem\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kyle.maclachlan\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj",
+        "projectUniqueName": "C:\\Users\\kylem\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj",
         "projectName": "AOC_01",
-        "projectPath": "C:\\Users\\kyle.maclachlan\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj",
-        "packagesPath": "C:\\Users\\kyle.maclachlan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kyle.maclachlan\\Projects\\advent-of-code\\2025\\01\\AOC_01\\obj\\",
+        "projectPath": "C:\\Users\\kylem\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj",
+        "packagesPath": "C:\\Users\\kylem\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kylem\\Projects\\advent-of-code\\2025\\01\\AOC_01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\kyle.maclachlan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kylem\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
