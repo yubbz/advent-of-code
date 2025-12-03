@@ -1,0 +1,16 @@
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\AOC_03.exe
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\Input1.txt
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\InputTest.txt
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\AOC_03.deps.json
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\AOC_03.runtimeconfig.json
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\AOC_03.dll
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\bin\Debug\net10.0\AOC_03.pdb
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.AssemblyInfoInputs.cache
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.AssemblyInfo.cs
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.csproj.CoreCompileInputs.cache
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.dll
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\refint\AOC_03.dll
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.pdb
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\AOC_03.genruntimeconfig.cache
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\03\AOC_03\obj\Debug\net10.0\ref\AOC_03.dll

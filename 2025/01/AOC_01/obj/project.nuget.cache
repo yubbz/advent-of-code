@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "M9dGvob7FZE=",
+  "dgSpecHash": "MIk8GF9wG4I=",
   "success": true,
-  "projectFilePath": "C:\\Users\\kylem\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj",
+  "projectFilePath": "C:\\Users\\kyle.maclachlan\\Projects\\advent-of-code\\2025\\01\\AOC_01\\AOC_01.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\kylem\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
+    "C:\\Users\\kyle.maclachlan\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.23.0\\microsoft.visualstudio.azure.containers.tools.targets.1.23.0.nupkg.sha512"
   ],
   "logs": []
 }
