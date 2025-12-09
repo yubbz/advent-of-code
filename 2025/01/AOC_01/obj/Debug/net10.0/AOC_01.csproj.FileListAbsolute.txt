@@ -29,3 +29,5 @@ C:\Users\kylem\Projects\advent-of-code\2025\01\AOC_01\obj\Debug\net10.0\AOC_01.g
 C:\Users\kylem\Projects\advent-of-code\2025\01\AOC_01\obj\Debug\net10.0\ref\AOC_01.dll
 C:\Users\kylem\Projects\advent-of-code\2025\01\AOC_01\bin\Debug\net10.0\Input1.txt
 C:\Users\kylem\Projects\advent-of-code\2025\01\AOC_01\bin\Debug\net10.0\InputTest.txt
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\01\AOC_01\bin\Debug\net10.0\Input1.txt
+C:\Users\kyle.maclachlan\Projects\advent-of-code\2025\01\AOC_01\bin\Debug\net10.0\InputTest.txt
