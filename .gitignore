@@ -1,0 +1,68 @@
+# Visual Studio and .NET
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+*.nuget.props
+*.nuget.g.props
+*.nuget.g.targets
+
+# Visual Studio Code
+.vscode/
+
+# Test results
+TestResults/
+*.trx
+coverage/
+
+# Logs
+*.log
+
+# Runtime files
+*.dll
+*.exe
+*.pdb
+*.mdb
+
+# Publish
+publish/
+
+# Dotnet user secrets
+secrets.json
+*.secrets.json
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JetBrains
+*.iml
+
+# Docker (ignore generated docker context if any)
+# If you want to include Dockerfile, remove the next line
+.dockerignore
+
+# Ignore generated project-specific files
+**/*.user
+**/*.local
